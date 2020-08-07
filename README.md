@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://octodex.github.com/images/carlostocat.gif" height="220px" width="220px"> 
+  <img src="https://octodex.github.com/images/carlostocat.gif" height="200px" width="200px"> 
 <!-- 
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
