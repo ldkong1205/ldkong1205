@@ -7,10 +7,6 @@
 -->
 </p>
 
-## About Me :wave:
-
-Hi, I am 
-
 <!--
 **ldkong1205/ldkong1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
