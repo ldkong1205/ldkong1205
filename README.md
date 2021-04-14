@@ -5,8 +5,10 @@
 
 I am a M.E. student in Computer Science and Engineering at Nanyang Technological University, Singapore, advised by Prof. Hanwang Zhang. Currently, I work in the fields of computer vision and natural language processing, with particular interests in representation learning and causal inference.
 
+<--
 [![Lingdong's github stats](https://github-readme-stats.vercel.app/api?username=ldkong1205&show_icons=true)](https://github.com/ldkong1205/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldkong1205&hide=jupyter%20notebook,tex&langs_count=10&layout=compact)](https://github.com/ldkong1205/github-readme-stats)
+-->
 
 ### Contact
 - Email: lingdong001@e.ntu.edu.sg
