@@ -13,5 +13,5 @@ Currently, I work in the fields of computer vision and natural language processi
 -->
 
 ### Contact
-- E-mail: lingdong001@e.ntu.edu.sg
+- Email: lingdong001@e.ntu.edu.sg
 - Address: N4-B1c-17, Nanyang Avenue, Singapore
