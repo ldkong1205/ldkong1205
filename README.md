@@ -5,7 +5,7 @@
 
 I am an M.Eng. student in Computer Science at the School of Computer Science and Engineering, Nanyang Technological University, Singapore.
 
-Currently, I work in the fields of computer vision and natural language processing, with particular interests in representation learning and causal inference.
+I work in the fields of deep learning and computer vision, with particular focuses on domain adaptation, 3D perception, and representation learning.
 
 <!--
 [![Lingdong's github stats](https://github-readme-stats.vercel.app/api?username=ldkong1205&show_icons=true)](https://github.com/ldkong1205/github-readme-stats)
