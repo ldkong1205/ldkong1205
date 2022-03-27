@@ -14,4 +14,4 @@ I work in the fields of deep learning and computer vision, with particular focus
 
 ### Contact
 - Email: lingdong001@e.ntu.edu.sg
-- Address: N4-B1c-17, Nanyang Avenue, Singapore
+- Address: ABN-02b-11. Academic Block North, 61 Nanyang Drive, Singapore
