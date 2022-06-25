@@ -5,7 +5,9 @@
 
 I am a Ph.D. student in the Department of Computer Science at the National University of Singapore.
 
-I am working in the fields of deep learning and computer vision, with particular focuses on domain adaptation, 3D perception, and visual representation learning.
+I work in the fields of deep learning and computer vision, with particular focuses on domain adaptation, 3D perception, and visual representation learning.
+
+My research pursues to build scalable perception models that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
 
 <!--
 [![Lingdong's github stats](https://github-readme-stats.vercel.app/api?username=ldkong1205&show_icons=true)](https://github.com/ldkong1205/github-readme-stats)
@@ -13,5 +15,5 @@ I am working in the fields of deep learning and computer vision, with particular
 -->
 
 ### Contact
-- Email: lingdong001@e.ntu.edu.sg
-- Address: ABN-02b-11, Academic Block North, 61 Nanyang Drive, Singapore
+- Email: ldkong@comp.nus.edu.sg
+- Address: 13 Computing Drive, Singapore
