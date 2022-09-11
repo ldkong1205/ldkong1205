@@ -16,4 +16,4 @@ My research pursues to build scalable perception models that can be generalized 
 
 ### Contact
 - Email: lingdong@comp.nus.edu.sg
-- Address: AS6 #05-02, 11 Computing Drive, Singapore
+- Address: AS6-05-02, 11 Computing Drive, Singapore
