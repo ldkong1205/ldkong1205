@@ -9,11 +9,6 @@ I work in the fields of deep learning and computer vision, with particular focus
 
 My research pursues to build scalable perception models that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
 
-<!--
-[![Lingdong's github stats](https://github-readme-stats.vercel.app/api?username=ldkong1205&show_icons=true)](https://github.com/ldkong1205/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldkong1205&hide=jupyter%20notebook,tex&langs_count=10&layout=compact)](https://github.com/ldkong1205/github-readme-stats)
--->
-
 ### Contact
 - Email: lingdong@comp.nus.edu.sg
 - Address: AS6-05-02, 11 Computing Drive, Singapore
