@@ -7,7 +7,7 @@ I am a Ph.D. student in the Department of Computer Science at the National Unive
 
 I work in the fields of deep learning and computer vision, with particular focuses on domain adaptation, 3D perception, and visual representation learning.
 
-My research pursues to build scalable perception models that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
+My research pursues to build robust and scalable perception models that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
 
 ### Contact
 - Email: lingdong@comp.nus.edu.sg
