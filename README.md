@@ -10,5 +10,5 @@ I work in the fields of deep learning and computer vision, with particular focus
 My research pursues to build robust and scalable perception models that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
 
 ### Contact
-- Email: lingdong@comp.nus.edu.sg
+- E-mail: lingdong@comp.nus.edu.sg
 - Address: AS6-05-02, 11 Computing Drive, Singapore
