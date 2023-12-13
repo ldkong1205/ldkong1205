@@ -5,7 +5,7 @@
 
 I am a Ph.D. student in the Department of Computer Science at the National University of Singapore.
 
-My research pursues to build robust and scalable 3D perception and generation models capable of being generalized across different domains and scenarios, with minimum or no human annotations needed.
+My research pursues to build robust and scalable 3D perception and generation models capable of being generalized across domains and scenarios, with minimum or no human annotations needed.
 
 ### Contact
 - E-mail: lingdong@comp.nus.edu.sg
