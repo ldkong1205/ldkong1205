@@ -7,7 +7,7 @@ I am a Ph.D. candidate in the Department of Computer Science at the National Uni
 
 My research pursues to build 3D perception and generation models that are robust, scalable, and generalizable across domains and scenarios, while requiring minimum human annotations.
 
-🦁 I am open to discussions and collaborations in 3D scene perception, generation, and understanding. Feel free to drop me an email if you find our research backgrounds a potential match.
+🦁 I am open to discussions and collaborations in 3D/4D scene perception, generation, and understanding. Feel free to drop me an email if you find our research backgrounds a potential match.
 
 
 ### Contact
