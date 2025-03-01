@@ -5,11 +5,11 @@
 
 I am a Ph.D. candidate in the Department of Computer Science at the National University of Singapore.
 
-My research pursues to build 3D perception and generation models that are robust, scalable, and generalizable across domains and scenarios, while requiring minimum human annotations.
+My research focuses on developing 3D scene understanding systems that are robust, scalable, and generalizable in real-world conditions.
 
-🦁 I am open to discussions and collaborations in 3D/4D scene perception, generation, and understanding. Feel free to drop me an email if you find our research backgrounds a potential match.
+🦁 I am open to discussions and collaborations in 3D scene perception, generation, and understanding. If you find our research backgrounds a potential match, feel free to email me.
 
 
 ### Contact
-- E-mail: lingdong@comp.nus.edu.sg
+- E-mail: lingdong.kong@u.nus.edu
 - Address: AS6-05-02, 11 Computing Drive, Singapore
