@@ -5,9 +5,7 @@
 
 I am a Ph.D. candidate in the Department of Computer Science at the National University of Singapore.
 
-My research focuses on developing 3D scene understanding systems that are robust, scalable, and generalizable in real-world conditions.
-
-🦁 I am open to discussions and collaborations in 3D scene perception, generation, and understanding. If you find our research backgrounds a potential match, feel free to email me.
+My research focuses include spatial intelligence, multimodal vision-language models, and 3D/4D world modeling and evaluations.
 
 
 ### Contact
