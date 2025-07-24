@@ -10,4 +10,4 @@ My research focuses include spatial intelligence, multimodal vision-language mod
 
 ### Contact
 - E-mail: lingdong.kong@u.nus.edu
-- Address: AS6-05-02, 11 Computing Drive, Singapore
+- Address: NUS School of Computing, COM1, 13 Computing Drive
