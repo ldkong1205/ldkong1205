@@ -8,12 +8,12 @@ I am a Ph.D. candidate in the Department of Computer Science at the National Uni
 My research focuses include spatial intelligence, multimodal vision-language models, and 3D/4D world modeling and evaluations.
 
 
-### Contact
+### :mailbox: Contact
 - E-mail: lingdong.kong@u.nus.edu
 - Address: NUS School of Computing, COM1, 13 Computing Drive
 
 
-### Featured Research Projects
+### :sparkles: Featured Research Projects
 
 | :sunglasses: Awesome | Project |
 |:-:|:-|
