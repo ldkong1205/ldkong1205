@@ -13,7 +13,7 @@ My research focuses include spatial intelligence, multimodal vision-language mod
 - Address: NUS School of Computing, COM1, 13 Computing Drive
 
 
-### :sparkles: Featured Research Projects
+### :sparkles: Recent Research Projects
 
 | :sunglasses: Awesome | Project |
 |:-:|:-|
